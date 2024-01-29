@@ -4,4 +4,4 @@
 
 ##### If a path leads to the end of the word, it marks the result as true. The algorithm continues the search in all four directions (up, down, left, and right) until it finds the complete word or exhausts all possibilities. It returns true if the word exists, and false otherwise.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Word-Search/).
